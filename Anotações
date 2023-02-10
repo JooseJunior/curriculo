@@ -1,0 +1,13 @@
+AULA 09/02/2022
+
+mkdir nomepasta = cria pasta
+cd nomepasta = acessa pasta
+ls = lista itens da pasta
+pwd = descreve o caminho
+
+git clone url = clona pasta do GitHUb
+code . = abre o vscode, direto do terminal
+
+<meta charset="utf-8"> = conjunto de escrita abrangente (ç, é, etc)
+
+instalar extensao "live server" no vscode, nao precisa ficar atualizando o navegador
